@@ -3,4 +3,6 @@ Find Any Bits Of Information There Is On A Specific Username,Email,Phone Number,
 
 Integrated All The Available DBs On The Surface And The Dark Web.
 
-Licensed Version Coming After Beta
+GUI & Licensed Version Coming After Beta
+
+
