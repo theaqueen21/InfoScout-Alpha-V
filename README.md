@@ -11,7 +11,7 @@ GUI & Licensed Version Coming After Beta
 
 
 
-Donations (Monero): 
+># Donations (Monero): 
 
 
 
