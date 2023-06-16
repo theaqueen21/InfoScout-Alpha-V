@@ -17,5 +17,6 @@ GUI & Licensed Version Coming After Beta
 
 
 
-![monero](https://user-images.githubusercontent.com/94680549/212542445-c32eaeec-0e69-4c21-976d-b3b29b779a82.png)
+![Donations](https://github.com/theaqueen21/InfoScout-Alpha-V/assets/94680549/8a083389-8ab2-48de-8655-8e70fe5bfa20)
+
 Thank You In Advance!
